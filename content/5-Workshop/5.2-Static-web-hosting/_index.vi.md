@@ -15,9 +15,10 @@ Trong hướng dẫn này, bạn sẽ:
 * Tạo một ứng dụng web mới.
 * Thiết lập Amplify cho dự án của bạn.
 
+### Lưu ý: phải cài nodejs để thực hành
 ### Triển khai
 
-#### Bước 1: Tạo một ứng dụng React mới
+#### Bước 1: Tạo một ứng dụng React mới 
 
 #### Tạo ứng dụng
 Mở một cửa sổ terminal hoặc command line mới, chạy lệnh sau để sử dụng Vite tạo một ứng dụng React:

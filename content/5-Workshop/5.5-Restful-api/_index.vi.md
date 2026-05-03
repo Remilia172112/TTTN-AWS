@@ -25,10 +25,6 @@ Trong hướng dẫn này, bạn sẽ:
 
 ## Triển khai
 
-### Thời gian hoàn thành
-
-Khoảng 5 phút
-
 ---
 
 ### Cấu hình Amplify Data
